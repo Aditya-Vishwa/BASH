@@ -1,0 +1,27 @@
+BASH stands for:
+
+B: Bourne
+
+A: Again
+
+SH: SHell
+
+And in Linux OS to interect with linux we us BASH Scripting.
+
+#! means BASH Shebang
+
+It is used to tell the operating system which interpreter to use to parse the rest of the file.
+
+Steps to create and execute BASH Script:
+
+Step 1: Create a BASH Script eg. nano first.sh 
+
+Step 2: Make file executable by changing the permission of file and adding execute permission by using:
+
+chmod +x first.sh
+
+Step 3: Run the script by using:
+
+bash first.sh or ./first.sh
+
+Thanks.
