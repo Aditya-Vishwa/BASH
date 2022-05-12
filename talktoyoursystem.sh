@@ -11,7 +11,7 @@ echo "I am fine too"
 
 sleep 1
 
-echo "You're logged in as $whoami in the directory $pwd and currently, It's $date"
+echo "You're logged in as $(whoami) in the directory $(pwd) and currently, It's $(date)"
 
 sleep 3 
 
