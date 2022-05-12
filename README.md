@@ -11,7 +11,7 @@ Step 2: Make the file executable
 ```http
    chmod +x first.sh
 ```
-Step 3: run file using:
+Step 3: Run script using:
 
 ```http
    bash first.sh
