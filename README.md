@@ -1,17 +1,17 @@
 # BASH
-Hey Guys! Let's Learn Bash Scripting Together
+**Hey Guys! Let's Learn Bash Scripting Together**
 
-Step 1: Create a BASH Script eg.
+**Step 1:** Create a BASH Script eg.
 
 ```http
 nano script.sh
 ```
-Step 2: Make the file executable
+**Step 2:** Make the file executable
 
 ```http
 chmod +x script.sh
 ```
-Step 3: Run script using:
+**Step 3:** Run script using:
 
 ```http
 bash script.sh
