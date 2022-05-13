@@ -9,3 +9,4 @@ echo "I think your have the most beautiful $compliment."
 sleep 2
 echo "Have a nice day, $name."
 echo "Bye! Bye!"
+#execute by: ./haveaniceday.sh Name Complement
