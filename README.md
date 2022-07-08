@@ -10,7 +10,7 @@ nano script.sh
 
 ```http
 chmod +x script.sh
-```
+
 **Step 3:** Run script using:
 
 ```http
