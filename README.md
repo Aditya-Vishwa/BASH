@@ -17,7 +17,7 @@ chmod +x script.sh
 
 ```
 bash script.sh
-```http
+```
 or
 ```
 ```
