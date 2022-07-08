@@ -20,7 +20,6 @@ bash script.sh
 ```
 or
 ```
-```
 ./script.sh
 ```
 <h3 align="left">Support:</h3>
