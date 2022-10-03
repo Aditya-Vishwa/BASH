@@ -3,7 +3,7 @@
 
 **Step 1:** Create a BASH Script eg.
 
-`````http
+`````
 nano script.sh
 `````
 
